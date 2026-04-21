@@ -1,0 +1,1479 @@
+Programme,Cohort,Year,Name,Status,Exam,attempt_1,attempt_2,attempt_3,attempt_4,attempt_5,attempt_6
+GAIP,C3,2024,Abd Syukur Amin Yasin Bin Mohamed,Active,Applied Data Science (CDSP-210),0,0,0,0,1,NULL
+GAIP,C3,2024,Abd Syukur Amin Yasin Bin Mohamed,Active,Applied Artificial Intelligence (AIP-210),0,0,1,NULL,NULL,NULL
+GCSP,C1,2024,Abdul Malek Bin Fahor,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Abdul Malek Bin Fahor,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Abdul Malek Bin Fahor,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Abdul Muhaimin Bin Hasni,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Abdul Muhaimin Bin Hasni,Active,AWS Cloud Practitioner (CLF-C02),0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Abdul Muhaimin Bin Mustaffa,Terminate,CISCO CCNA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Abdul Muhaimin Bin Mustaffa,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Abdul Muhaimin Bin Mustaffa,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Abdul Muiz Bin Mohd Zaki,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Abdul Muiz Bin Mohd Zaki,Active,CISCO SCOR,0,0,0,1,NULL,NULL
+GCCP,C3,2024,Abdul Muiz Bin Mohd Zaki,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Abdul Rahman Bin Haji Abdul Hakim,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Abdul Rahman Bin Haji Abdul Hakim,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Abdul Rizal Bin Jokariah,Active,AWS Solution Architect (SAA-C03),0,0,0,1,NULL,NULL
+GSAP,C3,2024,Abdul Rizal Bin Jokariah,Active,Foundation in Blockchain (EC-Council),0,1,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Abdul Rizal Bin Jokariah,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Abdullah Muhsin Bin Mohd Fadzil,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Abdullah Muhsin Bin Mohd Fadzil,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Adham Bin Halid,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Adham Bin Halid,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Adrian Hisham Bin Mohd Don,Active,AWS Solution Architect (SAA-C03),0,0,1,NULL,NULL,NULL
+GSAP,C3,2024,Adrian Hisham Bin Mohd Don,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Adrian Hisham Bin Mohd Don,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Affiq Aslam Bin Ahmad Zahri,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Affiq Aslam Bin Ahmad Zahri,Active,AWS Cloud Practitioner (CLF-C02),0,0,0,1,NULL,NULL
+GCSP,C3,2024,Afizi Husaini Bin Mohamed Pakri,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Afizi Husaini Bin Mohamed Pakri,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Afizi Husaini Bin Mohamed Pakri,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Ag Muhd Eemeer Iezat Bin Ag Judin,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Ag Muhd Eemeer Iezat Bin Ag Judin,Terminate,CISCO SCOR,0,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Ag Muhd Eemeer Iezat Bin Ag Judin,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Ahmad Amin Alimran Bin Iwan Razeky,Active,CompTIA Cybersecurity Analyst,0,1,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Ahmad Amin Alimran Bin Iwan Razeky,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Ahmad Amin Alimran Bin Iwan Razeky,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Ahmad Fahmi Bin Mohd Fauzi,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Ahmad Fahmi Bin Mohd Fauzi,Active,CISCO SCOR,0,0,0,1,NULL,NULL
+GCCP,C4,2024,Ahmad Fahmi Bin Mohd Fauzi,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GACP,C4,2024,Ahmad Faiz Bin Ghazali,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Ahmad Faiz Bin Ghazali,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Ahmad Faiz Bin Ghazali,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Ahmad Faiz Bin Ghazali,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Ahmad Farhan Bin Zulkarnain,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Ahmad Farhan Bin Zulkarnain,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Ahmad Firdaus Bin Mohd Suki,Active,AWS Solution Architect (SAA-C03),0,0,1,NULL,NULL,NULL
+GSAP,C2,2024,Ahmad Firdaus Bin Mohd Suki,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Ahmad Firdaus Bin Mohd Suki,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Ahmad Hafizuddin Bin Mohd Tajuddin,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Ahmad Hafizuddin Bin Mohd Tajuddin,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Ahmad Hafizuddin Bin Mohd Tajuddin,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Ahmad Hafizuddin Bin Mohd Tajuddin,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Ahmad Hasan Bin Sulaiman,Active,AWS Solution Architect (SAA-C03),0,1,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Ahmad Hasan Bin Sulaiman,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Ahmad Hasan Bin Sulaiman,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Ahmad Hasanul Amin Bin Zamani,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Ahmad Hasanul Amin Bin Zamani,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C3,2024,Ahmad Hasanul Amin Bin Zamani,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GCCP,C3,2024,Ahmad Haziq Irfan Bin Saharuddin,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Ahmad Haziq Irfan Bin Saharuddin,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Ahmad Haziq Irfan Bin Saharuddin,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GCCP,C3,2024,Ahmad Hazwan Syafiq Bin Hassan,Terminate,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Ahmad Hazwan Syafiq Bin Hassan,Terminate,CISCO SCOR,0,0,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Ahmad Hazwan Syafiq Bin Hassan,Terminate,CISCO SWSA,0,0,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Ahmad Hisyamudin Bin Salleh,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Ahmad Hisyamudin Bin Salleh,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Ahmad Izzuddin Bin Zainal Abedin,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Ahmad Izzuddin Bin Zainal Abedin,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Ahmad Izzuddin Bin Zainal Abedin,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Ahmad Izzuddin Zuhri Bin Zaidin,Terminate,CISCO CCNA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Ahmad Izzuddin Zuhri Bin Zaidin,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Ahmad Izzuddin Zuhri Bin Zaidin,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Ahmad Juzaili Bin Alias,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Ahmad Juzaili Bin Alias,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Ahmad Kamil Bin Ramli,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Ahmad Kamil Bin Ramli,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Ahmad Kamil Bin Ramli,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Ahmad Khairi Bin Hamzah,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Ahmad Khairi Bin Hamzah,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Ahmad Khairi Bin Juha,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Ahmad Khairi Bin Juha,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Ahmad Khairul Zuhri Bin Zuber,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Ahmad Khairul Zuhri Bin Zuber,Active,CompTIA Penetration Testing,0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Ahmad Khairul Zuhri Bin Zuber,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Ahmad Mun'im Bin Che Yaziz,Active,AWS Solution Architect (SAA-C03),0,1,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Ahmad Mun'im Bin Che Yaziz,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Ahmad Mun'im Bin Che Yaziz,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Ahmad Safwan Bin Mohamad,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Ahmad Safwan Bin Mohamad,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Ahmad Safwan Bin Mohamad,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Ahmad Syahmi Bin Amran,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C3,2024,Ahmad Syahmi Bin Amran,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Ahmad Taufiq Bin Rozman,Terminate,CISCO CCNA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Ahmad Taufiq Bin Rozman,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Ahmad Taufiq Bin Rozman,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Ahmad Zaid Bin Abd Rahim,Active,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C8,2024,Ahmad Zaid Bin Abd Rahim,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Ahmad Zaid Bin Abd Rahim,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GCSP,C3,2024,Ahmad Zul Hazri Bin Abdullah,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Ahmad Zul Hazri Bin Abdullah,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Ahmad Zul Hazri Bin Abdullah,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Ahmad Zulkarnain Bin Hassan,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Ahmad Zulkarnain Bin Hassan,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Aidil Khaidir Bin Muhamad,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Aidil Khaidir Bin Muhamad,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Aidil Khaidir Bin Muhamad,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Aiman Ariffin Bin Nazarudin,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Aiman Ariffin Bin Nazarudin,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Aiman Ariffin Bin Nazarudin,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Aiman Bin Mazlan,Active,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C6,2024,Aiman Bin Mazlan,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Aiman Bin Mazlan,Active,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Aiman Hakim Bin Nizam,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Aiman Hakim Bin Nizam,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Ain Nazrah Binti Amir,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Ain Nazrah Binti Amir,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Ainaa Mardhiah Binti Munir,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Ainaa Mardhiah Binti Munir,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Airen Binti Azman,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Airen Binti Azman,Active,Applied Artificial Intelligence (AIP-210),1,1,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Aizat Murtaza Bin Abas,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Aizat Murtaza Bin Abas,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Aizat Murtaza Bin Abas,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Alexzender Marunsai,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Alexzender Marunsai,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Alexzender Marunsai,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Alif Haikal Bin Zainal Abidin,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Alif Haikal Bin Zainal Abidin,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Allan Razlan Bin Raymond,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Allan Razlan Bin Raymond,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Allan Razlan Bin Raymond,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Amaluddin Bin Zainuddin,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Amaluddin Bin Zainuddin,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Amaluddin Bin Zainuddin,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Amin Jamain Bin Mohd Khairy,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C3,2024,Amin Jamain Bin Mohd Khairy,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Amir Imran Bin Mohamed Rafik,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Amir Imran Bin Mohamed Rafik,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Amir Imran Bin Mohamed Rafik,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Amir Irsyad Bin Mohamed Samsudin,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Amir Irsyad Bin Mohamed Samsudin,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Amir Irsyad Bin Mohamed Samsudin,Active,CompTIA Penetration Testing,0,1,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Amira Aida Binti Zaharuddin,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C3,2024,Amira Aida Binti Zaharuddin,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Amirul Aiman Bin Lokman,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Amirul Aiman Bin Lokman,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Amirul Aiman Bin Lokman,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Amirul Asyhraf Bin Azahar,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Amirul Asyhraf Bin Azahar,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Amirul Asyhraf Bin Azahar,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Amirul Azri Bin Abd Jamal,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Amirul Azri Bin Abd Jamal,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Amirul Azri Bin Abd Jamal,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Amirul Hakim Bin Ahmad Hassan Ayoppan,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Amirul Hakim Bin Ahmad Hassan Ayoppan,Active,AWS Cloud Practitioner (CLF-C02),0,0,0,1,NULL,NULL
+GCCP,C9,2024,Amirul Hazieq Bin Zainal Abidin,Active,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C9,2024,Amirul Hazieq Bin Zainal Abidin,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Amirul Hazieq Bin Zainal Abidin,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Amirul Shafiq Bin Irshad Salaam,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Amirul Shafiq Bin Irshad Salaam,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Amirul Shafiq Bin Irshad Salaam,Active,CompTIA Security X,0,1,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Amirul Zharif Bin Hishammudon Shah,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C3,2024,Amirul Zharif Bin Hishammudon Shah,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Ammar Hafiz Bin Azman,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Ammar Hafiz Bin Azman,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Ammar Hafiz Bin Azman,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Anas Nasri Bin Ahmad Faris,Active,AWS Solution Architect (SAA-C03),0,1,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Anas Nasri Bin Ahmad Faris,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Anas Nasri Bin Ahmad Faris,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Anas Syazwan Bin Mohd Ghazali,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Anas Syazwan Bin Mohd Ghazali,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Aniq Zumarziyad Bin Mohamad Hairudin,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Aniq Zumarziyad Bin Mohamad Hairudin,Active,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Aniq Zumarziyad Bin Mohamad Hairudin,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Anis Muhaimin Bin Ali,Active,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C6,2024,Anis Muhaimin Bin Ali,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Anis Muhaimin Bin Ali,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Arash Zikry Bin Abdul Karim,Terminate,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Arash Zikry Bin Abdul Karim,Terminate,CISCO SCOR,0,0,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Arash Zikry Bin Abdul Karim,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Arib Banin Bin Aliman,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Arib Banin Bin Aliman,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Arif Iskandar Bin Abd Azis,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Arif Iskandar Bin Abd Azis,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Arsyad Bin Ariffin,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Arsyad Bin Ariffin,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Arsyad Bin Ariffin,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Arsyad Dayan Bin Dzulkarnain,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Arsyad Dayan Bin Dzulkarnain,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Arsyad Dayan Bin Dzulkarnain,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Asfalailee Binti M Adam,Active,AWS Solution Architect (SAA-C03),0,0,1,NULL,NULL,NULL
+GSAP,C3,2024,Asfalailee Binti M Adam,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Asfalailee Binti M Adam,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Asmazoel Alfiqrie Bin Afriezul,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Asmazoel Alfiqrie Bin Afriezul,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Asmazoel Alfiqrie Bin Afriezul,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Asyraf Mierza Abd Rahman,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Asyraf Mierza Abd Rahman,Active,AWS Cloud Practitioner (CLF-C02),0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Awang Ilyas Awg Mahsen,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Awang Ilyas Awg Mahsen,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Awang Ilyas Awg Mahsen,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Azni Yusra Binti Ahmad Kasmiri,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Azni Yusra Binti Ahmad Kasmiri,Active,Applied Artificial Intelligence (AIP-210),0,0,1,NULL,NULL,NULL
+GACP,C4,2024,Azrai Bin Abdul Aziz,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Azrai Bin Abdul Aziz,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Azrai Bin Abdul Aziz,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Azrai Bin Abdul Aziz,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Azroimi Bin Khosni,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Azroimi Bin Khosni,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Azroimi Bin Khosni,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Azrul Azwan Mohammad Sani,Active,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C6,2024,Azrul Azwan Mohammad Sani,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Azrul Azwan Mohammad Sani,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Brynner Parir Elvis,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Brynner Parir Elvis,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Brynner Parir Elvis,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Che Amira Shahira Binti Che Asudin,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C3,2024,Che Amira Shahira Binti Che Asudin,Active,Applied Artificial Intelligence (AIP-210),0,NULL,1,NULL,NULL,NULL
+GACP,C4,2024,Che Muhammad Harith Bin Ab Halim,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Che Muhammad Harith Bin Ab Halim,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Che Muhammad Harith Bin Ab Halim,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Che Muhammad Harith Bin Ab Halim,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C2,2024,Che Wan Zulhusmi Bin Che Wan Zainal Abidin,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C2,2024,Che Wan Zulhusmi Bin Che Wan Zainal Abidin,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C2,2024,Che Wan Zulhusmi Bin Che Wan Zainal Abidin,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GACP,C1,2024,Danial Akmal Bin Sazali,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Danial Akmal Bin Sazali,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Danial Akmal Bin Sazali,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Danial Akmal Bin Sazali,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Danish Khalid Bin Ahmad Farwis,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Danish Khalid Bin Ahmad Farwis,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Danish Khalid Bin Ahmad Farwis,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Danish Khalid Bin Ahmad Farwis,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Dzarifa Ezaida Binti Mohamad Zahid,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Dzarifa Ezaida Binti Mohamad Zahid,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Dzarifa Ezaida Binti Mohamad Zahid,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Dzariq Mirza Bin Zainal Rashid,Active,AWS Solution Architect (SAA-C03),0,0,1,NULL,NULL,NULL
+GSAP,C1,2024,Dzariq Mirza Bin Zainal Rashid,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Dzariq Mirza Bin Zainal Rashid,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Efi Iskandar Bin Zainuddin,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Efi Iskandar Bin Zainuddin,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Engku Muhammad Hafiz Bin Che Engku Husin,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Engku Muhammad Hafiz Bin Che Engku Husin,Active,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Engku Muhammad Hafiz Bin Che Engku Husin,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Faeez Zimam Bin Feizal,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Faeez Zimam Bin Feizal,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Faez Amirul Azman,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Faez Amirul Azman,Active,CISCO SCOR,0,0,0,1,NULL,NULL
+GCCP,C1,2023,Faez Amirul Azman,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Faiez Bin Mohd Nizam,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Faiez Bin Mohd Nizam,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Faiez Bin Mohd Nizam,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Faiz Bin Hasnan,Active,CompTIA Cybersecurity Analyst,0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Faiz Bin Hasnan,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Faiz Bin Hasnan,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Fakhruddin Bin Mohamad Saupe,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Fakhruddin Bin Mohamad Saupe,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Farah Nini Binti Othman,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Farah Nini Binti Othman,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Farah Syazwani Binti Ahmad Fazdil,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Farah Syazwani Binti Ahmad Fazdil,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Farah Syazwani Binti Ahmad Fazdil,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Farisha Emmalin Binti Faheem Chughtai,Active,Applied Data Science (CDSP-210),0,0,0,1,NULL,NULL
+GAIP,C3,2024,Farisha Emmalin Binti Faheem Chughtai,Active,Applied Artificial Intelligence (AIP-210),0,0,1,NULL,NULL,NULL
+GCSP,C1,2024,Farzana Aqeela Binti Latif,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Farzana Aqeela Binti Latif,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Farzana Aqeela Binti Latif,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Fathin Nabilah Binti Abu Sah,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Fathin Nabilah Binti Abu Sah,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Fathin Nabilah Binti Abu Sah,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Fatin Athira Binti Azlan,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Fatin Athira Binti Azlan,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Fauzan Iliya Binti Khalid,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C1,2024,Fauzan Iliya Binti Khalid,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Fawzan Khaizuran Bin Faudzi,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Fawzan Khaizuran Bin Faudzi,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Fawzan Khaizuran Bin Faudzi,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GCTP,C3,2024,Firdaus Bin Zulkifli,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Firdaus Bin Zulkifli,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Hadrulazem Bin Mahyuddin,Active,Certified Ethical Hacker,0,1,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Hadrulazem Bin Mahyuddin,Active,AWS Cloud Practitioner (CLF-C02),0,0,0,1,NULL,NULL
+GCTP,C2,2024,Hafizul 'Alim Bin Khairulanuar,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Hafizul 'Alim Bin Khairulanuar,Active,AWS Cloud Practitioner (CLF-C02),0,1,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Haikal Hakimi Bin Abd Ghani,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Haikal Hakimi Bin Abd Ghani,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Haikal Hakimi Bin Abd Ghani,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Haizat Izzuddin Bin Yusof,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Haizat Izzuddin Bin Yusof,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Haizat Izzuddin Bin Yusof,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Hamzah Bin Uddin,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Hamzah Bin Uddin,Terminate,CISCO SCOR,0,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Hamzah Bin Uddin,Terminate,CISCO SWSA,0,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Hanafi Bin Selamat,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Hanafi Bin Selamat,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Hanafi Bin Selamat,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Hanif Bin Abdul Wahab,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Hanif Bin Abdul Wahab,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Haniff Aiman Bin Yusoff,Active,CompTIA Cybersecurity Analyst,0,1,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Haniff Aiman Bin Yusoff,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Haniff Aiman Bin Yusoff,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Harris Bin Nazman,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Harris Bin Nazman,Active,AWS Cloud Practitioner (CLF-C02),0,1,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Harun Bin Mohd Kamal Ariffin,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Harun Bin Mohd Kamal Ariffin,Active,AWS Cloud Practitioner (CLF-C02),0,0,1,NULL,NULL,NULL
+GAIP,C3,2024,Hizzatt Bin Abd Rahman,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C3,2024,Hizzatt Bin Abd Rahman,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Huzaifah Bin Dzulkifli,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Huzaifah Bin Dzulkifli,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Huzaifah Bin Dzulkifli,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Ili Syakira Binti Ibrahim,Terminate,CompTIA Cybersecurity Analyst,0,0,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Ili Syakira Binti Ibrahim,Terminate,CompTIA Penetration Testing,0,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Ili Syakira Binti Ibrahim,Terminate,CompTIA Security X,0,NULL,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Izhana Binti Idrus,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Izhana Binti Idrus,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Izzul Islam Bin Amiruddin,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Izzul Islam Bin Amiruddin,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Kamarul Zaman Bin Panatik,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Kamarul Zaman Bin Panatik,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Kamarul Zaman Bin Panatik,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Kamilia Aisyah Binti Mohammad Nasir,Active,AWS Solution Architect (SAA-C03),0,1,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Kamilia Aisyah Binti Mohammad Nasir,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Kamilia Aisyah Binti Mohammad Nasir,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Khairina Izzah Binti Khoirul Anuar,Active,Certified Ethical Hacker,0,1,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Khairina Izzah Binti Khoirul Anuar,Active,AWS Cloud Practitioner (CLF-C02),0,0,1,NULL,NULL,NULL
+GCSP,C4,2024,Khairul Akmal Bin Tahrin,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Khairul Akmal Bin Tahrin,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Khairul Akmal Bin Tahrin,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Khairul Anwar Bin Amin Azman,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Khairul Anwar Bin Amin Azman,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Khairul Anwar Bin Suriani,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Khairul Anwar Bin Suriani,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Khairul Anwar Bin Suriani,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Khairul Farhan Halimi Bin Khairul Afandi,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Khairul Farhan Halimi Bin Khairul Afandi,Active,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Khairul Farhan Halimi Bin Khairul Afandi,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2024,Khairul Hamizan Bin Kamaruzzaman,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C1,2024,Khairul Hamizan Bin Kamaruzzaman,Active,CISCO SCOR,0,0,0,1,NULL,NULL
+GCCP,C1,2024,Khairul Hamizan Bin Kamaruzzaman,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Khairul Rijal Bin Abdul Aziz,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Khairul Rijal Bin Abdul Aziz,Active,Applied Artificial Intelligence (AIP-210),1,1,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Khairun Nisaq Binti Taslim,Active,Applied Data Science (CDSP-210),0,0,0,1,NULL,NULL
+GAIP,C3,2024,Khairun Nisaq Binti Taslim,Active,Applied Artificial Intelligence (AIP-210),0,0,1,NULL,NULL,NULL
+GCTP,C2,2024,Lukman Bin Md Isa,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Lukman Bin Md Isa,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Lukmanhakim Bin Sukeran,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Lukmanhakim Bin Sukeran,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Lukmanhakim Bin Sukeran,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Mac Jake Louhart Anak Wanta,Active,Applied Data Science (CDSP-210),0,0,0,1,NULL,NULL
+GAIP,C3,2024,Mac Jake Louhart Anak Wanta,Active,Applied Artificial Intelligence (AIP-210),0,0,1,NULL,NULL,NULL
+GAIP,C1,2024,Mahmud Nasaruddin Putra Bin Abdul Rahman Putra,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Mahmud Nasaruddin Putra Bin Abdul Rahman Putra,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Malik Saiful Lizan Bin Jalaludin,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Malik Saiful Lizan Bin Jalaludin,Active,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Malik Saiful Lizan Bin Jalaludin,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GCCP,C6,2024,Marzyati Binti Abdul Majid,Terminate,CISCO CCNA,0,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Marzyati Binti Abdul Majid,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Marzyati Binti Abdul Majid,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mashkatul Anuar Bin Ariffin,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mashkatul Anuar Bin Ariffin,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mashkatul Anuar Bin Ariffin,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Megat Ahmad Faiz Bin Ahmad Shukri,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Megat Ahmad Faiz Bin Ahmad Shukri,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Megat Ahmad Faiz Bin Ahmad Shukri,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Megat Naqib Aiman Bin Megat Suhaimi,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Megat Naqib Aiman Bin Megat Suhaimi,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Megat Naqib Aiman Bin Megat Suhaimi,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Misbahul Munir Bin Abd Ghofur,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Misbahul Munir Bin Abd Ghofur,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Misbahul Munir Bin Abd Ghofur,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Mohad Khalil Bin Mohad Khazin,Active,AWS Solution Architect (SAA-C03),0,1,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Mohad Khalil Bin Mohad Khazin,Active,Foundation in Blockchain (EC-Council),0,1,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Mohad Khalil Bin Mohad Khazin,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Mohamad Adli Bin Sohaimi,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Mohamad Adli Bin Sohaimi,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Mohamad Adli Bin Sohaimi,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GAIP,C1,2024,Mohamad Afiq Bin Mohamad Anuar,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Mohamad Afiq Bin Mohamad Anuar,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohamad Amirul Izzat Bin Mohd Aziz,Terminate,AWS Solution Architect (SAA-C03),0,0,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohamad Amirul Izzat Bin Mohd Aziz,Terminate,Foundation in Blockchain (EC-Council),NULL,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohamad Amirul Izzat Bin Mohd Aziz,Terminate,Developer in Blockchain (EC-Council),NULL,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Mohamad Ashraf Bin Idros,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Mohamad Ashraf Bin Idros,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Mohamad Ashraf Bin Idros,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Mohamad Ashraf Bin Idros,Active,DevOps Foundation,0,1,NULL,NULL,NULL,NULL
+GACP,C4,2024,Mohamad Azim Zaidan Bin Azmi,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Mohamad Azim Zaidan Bin Azmi,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Mohamad Azim Zaidan Bin Azmi,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Mohamad Azim Zaidan Bin Azmi,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Mohamad Azimi Zakariah,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Mohamad Azimi Zakariah,Terminate,CISCO SCOR,0,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Mohamad Azimi Zakariah,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Mohamad Azizi Bin Abdul Basir,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Mohamad Azizi Bin Abdul Basir,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Mohamad Azizi Bin Abdul Basir,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohamad Azri Bin Mohamad Kalam,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohamad Azri Bin Mohamad Kalam,Active,CompTIA Penetration Testing,0,1,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohamad Azri Bin Mohamad Kalam,Active,CompTIA Security X,0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohamad Dania Bin Ismail,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohamad Dania Bin Ismail,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohamad Dania Bin Ismail,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Mohamad Fairus Mohd Tahar,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Mohamad Fairus Mohd Tahar,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Mohamad Fairus Mohd Tahar,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Mohamad Firdaus Bin Ali,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C3,2024,Mohamad Firdaus Bin Ali,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Mohamad Firdaus Bin Roszaidi,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Mohamad Firdaus Bin Roszaidi,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Mohamad Firdaus Bin Roszaidi,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Mohamad Hisyam Bin Shaifuddin,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Mohamad Hisyam Bin Shaifuddin,Active,AWS Cloud Practitioner (CLF-C02),0,0,0,1,NULL,NULL
+GCTP,C1,2024,Mohamad Hud Iyman Bin Mohd Roslan,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Mohamad Hud Iyman Bin Mohd Roslan,Active,AWS Cloud Practitioner (CLF-C02),0,1,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Mohamad Irsyad Affan Bin Yusni Afindi,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Mohamad Irsyad Affan Bin Yusni Afindi,Active,AWS Cloud Practitioner (CLF-C02),0,0,0,0,1,NULL
+GCSP,C2,2024,Mohamad Izudin Bin Abdul Rahaman,Active,CompTIA Cybersecurity Analyst,0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohamad Izudin Bin Abdul Rahaman,Active,CompTIA Penetration Testing,0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohamad Izudin Bin Abdul Rahaman,Active,CompTIA Security X,0,0,1,NULL,NULL,NULL
+GSAP,C1,2024,Mohamad Izzat Fahmi Bin Suhaimi,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohamad Izzat Fahmi Bin Suhaimi,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohamad Izzat Fahmi Bin Suhaimi,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Mohamad Jazlan Bin Mohamad Rozi,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Mohamad Jazlan Bin Mohamad Rozi,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2023,Mohamad Kamarul Akmal Bin Rosli,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2023,Mohamad Kamarul Akmal Bin Rosli,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2023,Mohamad Kamarul Akmal Bin Rosli,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2023,Mohamad Kamarul Akmal Bin Rosli,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Mohamad Muzammil Bin Abd Malik,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Mohamad Muzammil Bin Abd Malik,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohamad Norafif Bin Mohd Azman,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohamad Norafif Bin Mohd Azman,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohamad Norafif Bin Mohd Azman,Active,CompTIA Security X,0,1,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Mohamad Saiful Zaiham Bin Md Zain,Active,AWS Solution Architect (SAA-C03),0,0,1,NULL,NULL,NULL
+GSAP,C2,2024,Mohamad Saiful Zaiham Bin Md Zain,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Mohamad Saiful Zaiham Bin Md Zain,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Mohamad Sariffuddin Bin Harun,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Mohamad Sariffuddin Bin Harun,Active,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Mohamad Sariffuddin Bin Harun,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Mohamad Shafiq Bin Md Yusuf,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Mohamad Shafiq Bin Md Yusuf,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Mohamad Shafiq Bin Md Yusuf,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mohamad Shahrizal Bin Kamalul @ Kamarul Ariffin,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mohamad Shahrizal Bin Kamalul @ Kamarul Ariffin,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mohamad Shahrizal Bin Kamalul @ Kamarul Ariffin,Active,CompTIA Security X,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Mohamad Syazwan Bin Paharudin,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Mohamad Syazwan Bin Paharudin,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Mohamad Syazwan Bin Paharudin,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GSAP,C2,2024,Mohamed Asyraf Bin Ahmad Dzahiri,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Mohamed Asyraf Bin Ahmad Dzahiri,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Mohamed Asyraf Bin Ahmad Dzahiri,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Mohamed Fakhrul Faris Bin Mohamed Fuad,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Mohamed Fakhrul Faris Bin Mohamed Fuad,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Mohamed Fakhrul Faris Bin Mohamed Fuad,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Mohamed Fakhrul Faris Bin Mohamed Fuad,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Mohamed Feroz Bin Mohd Ashrap Khan,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Mohamed Feroz Bin Mohd Ashrap Khan,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Mohamed Feroz Bin Mohd Ashrap Khan,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Mohamed Feroz Bin Mohd Ashrap Khan,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Mohamed Hafidzi Bin Zulkiflee,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Mohamed Hafidzi Bin Zulkiflee,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Mohamed Hafidzi Bin Zulkiflee,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Mohamed Hafidzi Bin Zulkiflee,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Mohammad Aiman Bin Ismail,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Mohammad Aiman Bin Ismail,Active,Foundation in Blockchain (EC-Council),0,1,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Mohammad Aiman Bin Ismail,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohammad Anas Bin Mohd Asarani,Active,AWS Solution Architect (SAA-C03),0,0,1,NULL,NULL,NULL
+GSAP,C1,2024,Mohammad Anas Bin Mohd Asarani,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohammad Anas Bin Mohd Asarani,Active,Developer in Blockchain (EC-Council),0,1,NULL,NULL,NULL,NULL
+GACP,C3,2024,Mohammad Ariff Syamil Bin Idrus,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Mohammad Ariff Syamil Bin Idrus,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Mohammad Ariff Syamil Bin Idrus,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Mohammad Ariff Syamil Bin Idrus,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Mohammad Asyraf Bin Mustaffa,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Mohammad Asyraf Bin Mustaffa,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Mohammad Asyraf Bin Mustaffa,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Mohammad Hadi Kholiq Bin Malkan,Terminate,CISCO CCNA,0,0,0,NULL,NULL,NULL
+GCCP,C3,2024,Mohammad Hadi Kholiq Bin Malkan,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Mohammad Hadi Kholiq Bin Malkan,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohammad Hilman Bin Zakaria,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohammad Hilman Bin Zakaria,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohammad Hilman Bin Zakaria,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Mohammad Hisham Bin Mohd Nasir,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Mohammad Hisham Bin Mohd Nasir,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Mohammad Hisham Bin Mohd Nasir,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Mohammad Hisham Bin Mohd Nasir,Active,DevOps Foundation,0,0,1,NULL,NULL,NULL
+GCSP,C2,2024,Mohammad Khairul Annuar Bin M Zainuddin,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohammad Khairul Annuar Bin M Zainuddin,Active,CompTIA Penetration Testing,0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohammad Khairul Annuar Bin M Zainuddin,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C2,2024,Mohammad Nazrul Haffis Bin Mohd Nazri,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C2,2024,Mohammad Nazrul Haffis Bin Mohd Nazri,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C2,2024,Mohammad Nazrul Haffis Bin Mohd Nazri,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Mohammad Putra Alrasy Bin Zookeply,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Mohammad Putra Alrasy Bin Zookeply,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Mohammad Putra Alrasy Bin Zookeply,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Mohammad Putra Alrasy Bin Zookeply,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Mohammad Rethdayat Bin Mohd Yusof,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Mohammad Rethdayat Bin Mohd Yusof,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohammad Rozainee Bin Othman,Terminate,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohammad Rozainee Bin Othman,Terminate,Foundation in Blockchain (EC-Council),NULL,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohammad Rozainee Bin Othman,Terminate,Developer in Blockchain (EC-Council),NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Mohammad Syawal Naim Bin Romansor,Active,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C7,2024,Mohammad Syawal Naim Bin Romansor,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C7,2024,Mohammad Syawal Naim Bin Romansor,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Mohammad Taufiq Bin Abd Rahman,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Mohammad Taufiq Bin Abd Rahman,Active,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Mohammad Taufiq Bin Abd Rahman,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohammad Zarizi Idlan Bin Tumingan,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohammad Zarizi Idlan Bin Tumingan,Active,CompTIA Penetration Testing,0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohammad Zarizi Idlan Bin Tumingan,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Mohammad Zulhilmi Bin Mahammad Noor,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Mohammad Zulhilmi Bin Mahammad Noor,Active,AWS Cloud Practitioner (CLF-C02),0,0,1,NULL,NULL,NULL
+GCCP,C8,2024,Mohd Adil Bin Kamaludin,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Mohd Adil Bin Kamaludin,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Mohd Adil Bin Kamaludin,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mohd Adilaimi Bin Che Noordin,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mohd Adilaimi Bin Che Noordin,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mohd Adilaimi Bin Che Noordin,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohd Akmal Bin Jumadi,Active,CompTIA Cybersecurity Analyst,0,1,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohd Akmal Bin Jumadi,Active,CompTIA Penetration Testing,0,1,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohd Akmal Bin Jumadi,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Mohd Akmal Shauqi Bin Mohammad,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Mohd Akmal Shauqi Bin Mohammad,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Mohd Akmal Shauqi Bin Mohammad,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Mohd Akmal Shauqi Bin Mohammad,Active,DevOps Foundation,0,1,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Mohd Al Bukhori Bin Zahri@Zahari,Active,AWS Solution Architect (SAA-C03),0,1,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Mohd Al Bukhori Bin Zahri@Zahari,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Mohd Al Bukhori Bin Zahri@Zahari,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Mohd Alhafidz Bin Yahya,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Mohd Alhafidz Bin Yahya,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Mohd Alif Hilmi Bin Mohd Sahud,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Mohd Alif Hilmi Bin Mohd Sahud,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Mohd Alif Hilmi Bin Mohd Sahud,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Mohd Amirul Aizat Bin Roslin,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Mohd Amirul Aizat Bin Roslin,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Mohd Amirul Aizat Bin Roslin,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GCSP,C1,2024,Mohd Ariff Bin Abbas,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohd Ariff Bin Abbas,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohd Ariff Bin Abbas,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohd Azam Bin Ahmad,Active,CompTIA Cybersecurity Analyst,0,0,0,1,NULL,NULL
+GCSP,C2,2024,Mohd Azam Bin Ahmad,Active,CompTIA Penetration Testing,0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohd Azam Bin Ahmad,Active,CompTIA Security X,0,0,1,NULL,NULL,NULL
+GCCP,C7,2024,Mohd Azman Bin Azmi,Active,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C7,2024,Mohd Azman Bin Azmi,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C7,2024,Mohd Azman Bin Azmi,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Mohd Azri Bin Anuar,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C3,2024,Mohd Azri Bin Anuar,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C2,2024,Mohd Azwan Bin Mohd Azam,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C2,2024,Mohd Azwan Bin Mohd Azam,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C2,2024,Mohd Azwan Bin Mohd Azam,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Mohd Bakri Bin Baba,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Mohd Bakri Bin Baba,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Mohd Darwis Bin Sambas,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Mohd Darwis Bin Sambas,Active,AWS Cloud Practitioner (CLF-C02),0,1,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohd Dzulhelmi Bin Mohd Sukri,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohd Dzulhelmi Bin Mohd Sukri,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohd Dzulhelmi Bin Mohd Sukri,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Mohd Fadhil Bin Khalid,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Mohd Fadhil Bin Khalid,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohd Faiz Yazid Abu Seman,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohd Faiz Yazid Abu Seman,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohd Faiz Yazid Abu Seman,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Mohd Faiz Zar'ie Mohd Fauzi,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Mohd Faiz Zar'ie Mohd Fauzi,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Mohd Faiz Zar'ie Mohd Fauzi,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Mohd Faiz Zar'ie Mohd Fauzi,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Mohd Fakrulhakim Hilmi Bin Mustafa,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Mohd Fakrulhakim Hilmi Bin Mustafa,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Mohd Farees Azuan Bin Azizan,Active,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C5,2024,Mohd Farees Azuan Bin Azizan,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Mohd Farees Azuan Bin Azizan,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Mohd Firdaus Bin Ibrahim,Active,Applied Data Science (CDSP-210),0,0,0,1,NULL,NULL
+GAIP,C2,2024,Mohd Firdaus Bin Ibrahim,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Mohd Firdaus Bin Salim,Active,Applied Data Science (CDSP-210),0,0,0,1,NULL,NULL
+GAIP,C3,2024,Mohd Firdaus Bin Salim,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohd Hafidz Bin Khairuddin,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohd Hafidz Bin Khairuddin,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohd Hafidz Bin Khairuddin,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Mohd Hakimi Bin Mohd Nor,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Mohd Hakimi Bin Mohd Nor,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Mohd Hamiezan Bin Rohaizat,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C1,2024,Mohd Hamiezan Bin Rohaizat,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Mohd Hanis Bin Alias,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Mohd Hanis Bin Alias,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Mohd Hariz Bin Shafie,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C3,2024,Mohd Hariz Bin Shafie,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Mohd Hazim Syafiq Bin Mohd Dali,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Mohd Hazim Syafiq Bin Mohd Dali,Active,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Mohd Hazim Syafiq Bin Mohd Dali,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Mohd Hisyam Bin Hamzah,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Mohd Hisyam Bin Hamzah,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohd Iqbal Bin Ahmad,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohd Iqbal Bin Ahmad,Active,CompTIA Penetration Testing,0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Mohd Iqbal Bin Ahmad,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Mohd Izuan Bin Mustaffa,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Mohd Izuan Bin Mustaffa,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Mohd Jauze Bin Koma'Rudin,Active,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C6,2024,Mohd Jauze Bin Koma'Rudin,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Mohd Jauze Bin Koma'Rudin,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Mohd Khairi Bin Mohd Fauzi,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C3,2024,Mohd Khairi Bin Mohd Fauzi,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Mohd Khairul Hapipi Bin Romli,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Mohd Khairul Hapipi Bin Romli,Active,AWS Cloud Practitioner (CLF-C02),0,0,1,NULL,NULL,NULL
+GCCP,C6,2024,Mohd Luqman Hakim Bin Mohd Basir,Terminate,CISCO CCNA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Mohd Luqman Hakim Bin Mohd Basir,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Mohd Luqman Hakim Bin Mohd Basir,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Mohd Mustakhim Bin Noor Rehan,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Mohd Mustakhim Bin Noor Rehan,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Mohd Mustakhim Bin Noor Rehan,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Mohd Nabil Iqbal Bin Ahmad,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Mohd Nabil Iqbal Bin Ahmad,Active,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Mohd Nabil Iqbal Bin Ahmad,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohd Najmi Bin Mohd Abd Hadi,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohd Najmi Bin Mohd Abd Hadi,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohd Najmi Bin Mohd Abd Hadi,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohd Najmi Zaharudin,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohd Najmi Zaharudin,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohd Najmi Zaharudin,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mohd Nasruddeen Bin Mohd Nasri,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mohd Nasruddeen Bin Mohd Nasri,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mohd Nasruddeen Bin Mohd Nasri,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Mohd Nazirul Bin Romainor,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Mohd Nazirul Bin Romainor,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohd Nazri Azis,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohd Nazri Azis,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Mohd Nazri Azis,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Mohd Nizam Bin Abdul Karim,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Mohd Nizam Bin Abdul Karim,Active,AWS Cloud Practitioner (CLF-C02),0,0,1,NULL,NULL,NULL
+GCCP,C2,2024,Mohd Noor Faiz Bin Abdul Rahim,Terminate,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C2,2024,Mohd Noor Faiz Bin Abdul Rahim,Terminate,CISCO SCOR,0,0,0,NULL,NULL,NULL
+GCCP,C2,2024,Mohd Noor Faiz Bin Abdul Rahim,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mohd Norhafeez Bin Abdul Rahman,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mohd Norhafeez Bin Abdul Rahman,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mohd Norhafeez Bin Abdul Rahman,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mohd Rafizal Bin Abdul Razak,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mohd Rafizal Bin Abdul Razak,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Mohd Rafizal Bin Abdul Razak,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Mohd Ramzan Bin Rozali,Active,Applied Data Science (CDSP-210),0,0,0,0,1,NULL
+GAIP,C3,2024,Mohd Ramzan Bin Rozali,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohd Redza Ezzaq Bin Mohd Esa,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohd Redza Ezzaq Bin Mohd Esa,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohd Redza Ezzaq Bin Mohd Esa,Active,CompTIA Security X,0,0,0,1,NULL,NULL
+GCTP,C3,2024,Mohd Ridzuan Bin Mohamad,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Mohd Ridzuan Bin Mohamad,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohd Safwan Bin Md Shaimi,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohd Safwan Bin Md Shaimi,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohd Safwan Bin Md Shaimi,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohd Shah Durrani Bin Jamil,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohd Shah Durrani Bin Jamil,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohd Shah Durrani Bin Jamil,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Mohd Shah Erhan Bin Shahadan,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Mohd Shah Erhan Bin Shahadan,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Mohd Shah Erhan Bin Shahadan,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohd Shakir Bin Ros Shahidi,Active,AWS Solution Architect (SAA-C03),0,0,1,NULL,NULL,NULL
+GSAP,C1,2024,Mohd Shakir Bin Ros Shahidi,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Mohd Shakir Bin Ros Shahidi,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Mohd Syafiquddin Bin Rosli,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Mohd Syafiquddin Bin Rosli,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Mohd Syafiquddin Bin Rosli,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GAIP,C3,2024,Mohd Syarifuddin Bin Mat Zali,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C3,2024,Mohd Syarifuddin Bin Mat Zali,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Mohd Taufik Bin Meor Mohd Lani,Active,Applied Data Science (CDSP-210),0,0,0,0,1,NULL
+GAIP,C1,2024,Mohd Taufik Bin Meor Mohd Lani,Active,Applied Artificial Intelligence (AIP-210),0,0,1,NULL,NULL,NULL
+GAIP,C3,2024,Mohd Taufiq Bin Mohd Johan,Active,Applied Data Science (CDSP-210),0,0,0,1,NULL,NULL
+GAIP,C3,2024,Mohd Taufiq Bin Mohd Johan,Active,Applied Artificial Intelligence (AIP-210),0,0,1,NULL,NULL,NULL
+GCSP,C4,2024,Mohd Zulhusni Muaz Bin Ismail,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohd Zulhusni Muaz Bin Ismail,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Mohd Zulhusni Muaz Bin Ismail,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muaz Mohamad Muhaiyaddin,Active,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C9,2024,Muaz Mohamad Muhaiyaddin,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C9,2024,Muaz Mohamad Muhaiyaddin,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhamad Afiq Mohd Yussof,Terminate,CISCO CCNA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhamad Afiq Mohd Yussof,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhamad Afiq Mohd Yussof,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Muhamad Amin Ridhwan Bin Mazlan,Active,CompTIA Cybersecurity Analyst,0,1,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Muhamad Amin Ridhwan Bin Mazlan,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Muhamad Amin Ridhwan Bin Mazlan,Active,CompTIA Security X,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhamad Amir Syafiq Bin Abd Hadi,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhamad Amir Syafiq Bin Abd Hadi,Active,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhamad Amir Syafiq Bin Abd Hadi,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhamad Amirul Ashraf Bin Bazlan,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhamad Amirul Ashraf Bin Bazlan,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C4,2024,Muhamad Amirul Ashraf Bin Bazlan,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Muhamad Amirul Hakim Bin Zulkefli,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Muhamad Amirul Hakim Bin Zulkefli,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhamad Amirul Husni Bin Hizaddin,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhamad Amirul Husni Bin Hizaddin,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhamad Amirul Husni Bin Hizaddin,Terminate,CISCO SWSA,0,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Muhamad Asyraf Bin A.Karim,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Muhamad Asyraf Bin A.Karim,Active,AWS Cloud Practitioner (CLF-C02),0,1,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhamad Aziq Bin Azmi,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhamad Aziq Bin Azmi,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhamad Aziq Bin Azmi,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhamad Aziq Bin Azmi,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Muhamad Fitri Bin Ahmad Adin,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Muhamad Fitri Bin Ahmad Adin,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Muhamad Hafiz Bin Jamlay,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Muhamad Hafiz Bin Jamlay,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Muhamad Hanif Bin Yaziz,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Muhamad Hanif Bin Yaziz,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Muhamad Lokman Bin Ar Azmi,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Muhamad Lokman Bin Ar Azmi,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhamad Luqman Hakim Bin Mohamad Nor,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhamad Luqman Hakim Bin Mohamad Nor,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C4,2024,Muhamad Luqman Hakim Bin Mohamad Nor,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GCSP,C1,2024,Muhamad Rahimi Bin Shamsuddin,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Muhamad Rahimi Bin Shamsuddin,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Muhamad Rahimi Bin Shamsuddin,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Muhamad Ridzuan Bin Nurul Azmi,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Muhamad Ridzuan Bin Nurul Azmi,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Muhamad Ridzuan Bin Nurul Azmi,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhamad Rusminurasyid Bin Ahmad Rusmili,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhamad Rusminurasyid Bin Ahmad Rusmili,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C3,2024,Muhamad Rusminurasyid Bin Ahmad Rusmili,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Muhamad Sallehin Bin Jaafar,Active,AWS Solution Architect (SAA-C03),0,0,0,1,NULL,NULL
+GSAP,C1,2024,Muhamad Sallehin Bin Jaafar,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Muhamad Sallehin Bin Jaafar,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Muhamad Shafiq Izzaqa Bin Muhamad Sayuti,Active,AWS Solution Architect (SAA-C03),0,0,1,NULL,NULL,NULL
+GSAP,C3,2024,Muhamad Shafiq Izzaqa Bin Muhamad Sayuti,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Muhamad Shafiq Izzaqa Bin Muhamad Sayuti,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhamad Syafiq Bin Abd Hamid,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhamad Syafiq Bin Abd Hamid,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C4,2024,Muhamad Syafiq Bin Abd Hamid,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Muhamad Syahzwan Bin Safardin,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Muhamad Syahzwan Bin Safardin,Active,AWS Cloud Practitioner (CLF-C02),0,0,0,1,NULL,NULL
+GCSP,C1,2024,Muhamad Yusof Mohamad Padzli,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Muhamad Yusof Mohamad Padzli,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Muhamad Yusof Mohamad Padzli,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Muhamad Zulasyraf Bin Ab Razak,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Muhamad Zulasyraf Bin Ab Razak,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Muhamad Zulasyraf Bin Ab Razak,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhamad Zulfadhli Bin Mohamad Hasnan,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhamad Zulfadhli Bin Mohamad Hasnan,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhamad Zulfadhli Bin Mohamad Hasnan,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Muhamad Zulfadli Bin Abdul Karim,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Muhamad Zulfadli Bin Abdul Karim,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Muhamad Zulfadli Bin Abdul Karim,Active,CompTIA Security X,0,1,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Muhammad Adam Bin Muhamad Zani,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Muhammad Adam Bin Muhamad Zani,Active,AWS Cloud Practitioner (CLF-C02),0,1,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Muhammad Adib Bin Abd Hamid,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Muhammad Adib Bin Abd Hamid,Active,AWS Cloud Practitioner (CLF-C02),0,1,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Muhammad Adib Bin Bahrudin,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Muhammad Adib Bin Bahrudin,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Muhammad Adib Bin Bahrudin,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Muhammad Adil Wahi Muhammad Zaini,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Muhammad Adil Wahi Muhammad Zaini,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Muhammad Adil Wahi Muhammad Zaini,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Aiman Bin Abdul Aziz,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Aiman Bin Abdul Aziz,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Aiman Bin Abdul Aziz,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Aiman Bin Abdullah,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Aiman Bin Abdullah,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Aiman Bin Abdullah,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Aiman Bin Abdullah,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Muhammad Aiman Bin Muhammad Sofian,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Muhammad Aiman Bin Muhammad Sofian,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Muhammad Aiman Bin Muhammad Sofian,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Muhammad Aiman Bin Tamby Sudeen,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Muhammad Aiman Bin Tamby Sudeen,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Muhammad Aiman Bin Tamby Sudeen,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Muhammad Akmal Amani Bin Ahnuar,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Muhammad Akmal Amani Bin Ahnuar,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Akmal Bin Mohd Anuar,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Akmal Bin Mohd Anuar,Active,CISCO SCOR,0,0,0,0,1,NULL
+GCCP,C4,2024,Muhammad Akmal Bin Mohd Anuar,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Muhammad Akmal Bin Zaimi,Terminate,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Muhammad Akmal Bin Zaimi,Terminate,Foundation in Blockchain (EC-Council),NULL,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Muhammad Akmal Bin Zaimi,Terminate,Developer in Blockchain (EC-Council),NULL,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Muhammad Alif Bin Tajudin,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Muhammad Alif Bin Tajudin,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Muhammad Alif Bin Tajudin,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Muhammad Alif Bin Tajudin,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Amir Huzaifah Bin Rashdi,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Amir Huzaifah Bin Rashdi,Active,CISCO SCOR,0,0,0,1,NULL,NULL
+GCCP,C4,2024,Muhammad Amir Huzaifah Bin Rashdi,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GACP,C3,2024,Muhammad Amiruddin Bin Amran,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Muhammad Amiruddin Bin Amran,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Muhammad Amiruddin Bin Amran,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Muhammad Amiruddin Bin Amran,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Muhammad Anas Bin Abdull Razak,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Muhammad Anas Bin Abdull Razak,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Muhammad Anas Bin Abdull Razak,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Muhammad Arief Bin Mohd Rafie,Active,Android Certified Application Development,0,1,NULL,NULL,NULL,NULL
+GACP,C5,2024,Muhammad Arief Bin Mohd Rafie,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Muhammad Arief Bin Mohd Rafie,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Muhammad Arief Bin Mohd Rafie,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Muhammad Arif Bin Zulkapli,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Muhammad Arif Bin Zulkapli,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Muhammad Arif Safwan Abdul Manaf,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Muhammad Arif Safwan Abdul Manaf,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Muhammad Arif Safwan Abdul Manaf,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GSAP,C1,2024,Muhammad Ariff Akram Bin Muhamad Daud,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Muhammad Ariff Akram Bin Muhamad Daud,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Muhammad Ariff Akram Bin Muhamad Daud,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhammad Asraf Bin Mohammad Nasir,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhammad Asraf Bin Mohammad Nasir,Active,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhammad Asraf Bin Mohammad Nasir,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Muhammad Asyif Bin Mohd Azman,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Muhammad Asyif Bin Mohd Azman,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Muhammad Asyif Bin Mohd Azman,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhammad Asyraf Bin Yusri,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhammad Asyraf Bin Yusri,Active,CISCO SCOR,0,0,0,1,NULL,NULL
+GCCP,C3,2024,Muhammad Asyraf Bin Yusri,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Muhammad Awis Jamaluddin Bin Johari,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Muhammad Awis Jamaluddin Bin Johari,Active,AWS Cloud Practitioner (CLF-C02),0,0,1,NULL,NULL,NULL
+GAIP,C1,2024,Muhammad Azril Bin Sahri,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C1,2024,Muhammad Azril Bin Sahri,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Badrul Amin Bin Annas,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Badrul Amin Bin Annas,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Badrul Amin Bin Annas,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Badrul Amin Bin Annas,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Danish Irham Bin Badrul Hisham,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Danish Irham Bin Badrul Hisham,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Danish Irham Bin Badrul Hisham,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhammad Fadhil Bin Mohamad Bakri,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhammad Fadhil Bin Mohamad Bakri,Active,CISCO SCOR,0,0,0,1,NULL,NULL
+GCCP,C3,2024,Muhammad Fadhil Bin Mohamad Bakri,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GSAP,C2,2024,Muhammad Fadli Bin Razali,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Muhammad Fadli Bin Razali,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Muhammad Fadli Bin Razali,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Muhammad Faez Bin Sukri,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Muhammad Faez Bin Sukri,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Muhammad Faez Bin Sukri,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Muhammad Fairuz Bin Yaacub,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Muhammad Fairuz Bin Yaacub,Active,AWS Cloud Practitioner (CLF-C02),0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Faisal Bin Noor Jamin,Terminate,CISCO CCNA,0,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Faisal Bin Noor Jamin,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Faisal Bin Noor Jamin,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Faiz Bin Johari,Terminate,CISCO CCNA,0,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Faiz Bin Johari,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Faiz Bin Johari,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Muhammad Faiz Bin Mahdi,Active,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C6,2024,Muhammad Faiz Bin Mahdi,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C6,2024,Muhammad Faiz Bin Mahdi,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Muhammad Farhan Bin Abd Rahman,Active,AWS Solution Architect (SAA-C03),0,0,1,NULL,NULL,NULL
+GSAP,C3,2024,Muhammad Farhan Bin Abd Rahman,Active,Foundation in Blockchain (EC-Council),0,1,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Muhammad Farhan Bin Abd Rahman,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Farhan Bin Abu Bakar Rudin,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Farhan Bin Abu Bakar Rudin,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Farhan Bin Abu Bakar Rudin,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Farhan Bin Abu Bakar Rudin,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Farid Asyraf Bin Abu Hassan,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Farid Asyraf Bin Abu Hassan,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Farid Asyraf Bin Abu Hassan,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhammad Faris Bin Kamarudin,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhammad Faris Bin Kamarudin,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhammad Faris Bin Kamarudin,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GCSP,C3,2024,Muhammad Fazli Mihsah Bin Mohd Fazilah,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Muhammad Fazli Mihsah Bin Mohd Fazilah,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Muhammad Fazli Mihsah Bin Mohd Fazilah,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Muhammad Fikri Bin Muhamad Yusof,Active,Certified Ethical Hacker,0,1,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Muhammad Fikri Bin Muhamad Yusof,Active,AWS Cloud Practitioner (CLF-C02),0,1,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Muhammad Fikri Bin Rozalie Mohamed,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Muhammad Fikri Bin Rozalie Mohamed,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Muhammad Fikri Bin Rozalie Mohamed,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Firdaus Fitri Bin Reduan,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Firdaus Fitri Bin Reduan,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Firdaus Fitri Bin Reduan,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCCP,C2,2024,Muhammad Hafiz Bin Ab Jalil,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C2,2024,Muhammad Hafiz Bin Ab Jalil,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C2,2024,Muhammad Hafiz Bin Ab Jalil,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Hafiz Bin Abd Azis,Terminate,CISCO CCNA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Hafiz Bin Abd Azis,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Hafiz Bin Abd Azis,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Muhammad Hafizi Bin Abd Rahaim,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Muhammad Hafizi Bin Abd Rahaim,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Muhammad Hafizi Bin Abd Rahaim,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhammad Hafizuddin Bin Adnan,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhammad Hafizuddin Bin Adnan,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhammad Hafizuddin Bin Adnan,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Muhammad Hafizuddin Bin Che Ros,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Muhammad Hafizuddin Bin Che Ros,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Haikal Bin Mohd Radzi,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Haikal Bin Mohd Radzi,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Haikal Bin Mohd Radzi,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Haikal Bin Mohd Radzi,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Muhammad Haiman Bin Md Sadi,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Muhammad Haiman Bin Md Sadi,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Muhammad Haiman Bin Md Sadi,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Haniff Bin Hamdan,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Haniff Bin Hamdan,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Haniff Bin Hamdan,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Haniff Bin Hamdan,Active,DevOps Foundation,0,1,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Muhammad Hanis Mohd Dahari,Active,CompTIA Cybersecurity Analyst,0,0,1,NULL,NULL,NULL
+GCSP,C3,2024,Muhammad Hanis Mohd Dahari,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Muhammad Hanis Mohd Dahari,Active,CompTIA Security X,0,1,NULL,NULL,NULL,NULL
+GACP,C1,2024,Muhammad Hasiff Jazlan,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Muhammad Hasiff Jazlan,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Muhammad Hasiff Jazlan,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Muhammad Hasiff Jazlan,Active,DevOps Foundation,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Hazim Mohd Zailan,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Hazim Mohd Zailan,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Hazim Mohd Zailan,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Haziq Akmal Bin Jubri,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Haziq Akmal Bin Jubri,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Haziq Akmal Bin Jubri,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Haziq Hafizuddin Bin Rosmi,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Haziq Hafizuddin Bin Rosmi,Active,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Haziq Hafizuddin Bin Rosmi,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Hazlamiy Musak,Terminate,CISCO CCNA,0,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Hazlamiy Musak,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Hazlamiy Musak,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Hazman Bin Hussin,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Hazman Bin Hussin,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Hazman Bin Hussin,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Muhammad Hazwan Bin Abdul Aziz,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Muhammad Hazwan Bin Abdul Aziz,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Muhammad Helmi Bin Abdullah,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Muhammad Helmi Bin Abdullah,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Muhammad Helmi Bin Abdullah,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Muhammad Hisyamuddin Bin Ibrahim,Active,Applied Data Science (CDSP-210),0,0,0,1,NULL,NULL
+GAIP,C4,2024,Muhammad Hisyamuddin Bin Ibrahim,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Muhammad Irsyad Bin Sahaimi,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Muhammad Irsyad Bin Sahaimi,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Muhammad Irsyad Bin Sahaimi,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Muhammad Irsyad Bin Sahaimi,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Izzat Bin Asmaon,Active,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Izzat Bin Asmaon,Active,CISCO SCOR,0,0,0,1,NULL,NULL
+GCCP,C9,2024,Muhammad Izzat Bin Asmaon,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Muhammad Izzuddin Bin Abd Rahman,Terminate,CISCO CCNA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Muhammad Izzuddin Bin Abd Rahman,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Muhammad Izzuddin Bin Abd Rahman,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Muhammad Izzul Fahmi Bin Ramlan,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Muhammad Izzul Fahmi Bin Ramlan,Active,AWS Cloud Practitioner (CLF-C02),0,0,1,NULL,NULL,NULL
+GCCP,C3,2024,Muhammad Jauhar Zahari Bin  Abdul Aziz,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhammad Jauhar Zahari Bin  Abdul Aziz,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhammad Jauhar Zahari Bin  Abdul Aziz,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhammad Khairul Ihsan Bin Mohd Amin,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhammad Khairul Ihsan Bin Mohd Amin,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Muhammad Khairul Ihsan Bin Mohd Amin,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Khidir Bin Abdullah,Terminate,CISCO CCNA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Khidir Bin Abdullah,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Khidir Bin Abdullah,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Luqman Bin Anuar,Terminate,CISCO CCNA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Luqman Bin Anuar,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Luqman Bin Anuar,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Muhammad Luqman Bin Rasimi,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Muhammad Luqman Bin Rasimi,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Muhammad Luqman Bin Rasimi,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Muhammad Mubin Shafiq Bin Mattar,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Muhammad Mubin Shafiq Bin Mattar,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Muhammad Mubin Shafiq Bin Mattar,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Muhammad Muiz Bin Md Aludin,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Muhammad Muiz Bin Md Aludin,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Muhammad Muiz Bin Md Aludin,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Muhammad Mustaqeem Bin Mohd Sopee,Active,Applied Data Science (CDSP-210),0,0,0,1,NULL,NULL
+GAIP,C1,2024,Muhammad Mustaqeem Bin Mohd Sopee,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhammad Muzzammil Bin Azhari,Active,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C5,2024,Muhammad Muzzammil Bin Azhari,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhammad Muzzammil Bin Azhari,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhammad Naim Bin Haron,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhammad Naim Bin Haron,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhammad Naim Bin Haron,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhammad Naim Bin Haron,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Muhammad Najmi Bin Ahmad,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Muhammad Najmi Bin Ahmad,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Muhammad Najmi Bin Ahmad,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Najmuddin Bin Nazree,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Najmuddin Bin Nazree,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Najmuddin Bin Nazree,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Naqib Bin Atan,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Naqib Bin Atan,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Naqib Bin Atan,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Naqib Bin Atan,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Muhammad Nor Arif Bin Md Hadri,Terminate,Applied Data Science (CDSP-210),NULL,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Muhammad Nor Arif Bin Md Hadri,Terminate,Applied Artificial Intelligence (AIP-210),NULL,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Muhammad Nur Sufi Bin Abu Bakar,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Muhammad Nur Sufi Bin Abu Bakar,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Muhammad Nur Sufi Bin Abu Bakar,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Nur Syahmin Bin Rusdan,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Nur Syahmin Bin Rusdan,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Nur Syahmin Bin Rusdan,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhammad Nursyazwan Bin Abd Malek,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhammad Nursyazwan Bin Abd Malek,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhammad Nursyazwan Bin Abd Malek,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhammad Nursyazwan Bin Abd Malek,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhammad Rashid Bin Basharudin,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhammad Rashid Bin Basharudin,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhammad Rashid Bin Basharudin,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhammad Rashid Bin Basharudin,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Muhammad Raziq Naim Bin Ahmad Shukri,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Muhammad Raziq Naim Bin Ahmad Shukri,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Muhammad Redzuan Bin Illias,Terminate,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Muhammad Redzuan Bin Illias,Terminate,CISCO SCOR,0,0,0,NULL,NULL,NULL
+GCCP,C1,2023,Muhammad Redzuan Bin Illias,Terminate,CISCO SWSA,0,0,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Ridha Bin Alias,Active,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Ridha Bin Alias,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Ridha Bin Alias,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Muhammad Ridhauddin Bin Mohd Said,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Muhammad Ridhauddin Bin Mohd Said,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Muhammad Rusydi Amin Bin Samsudin,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Muhammad Rusydi Amin Bin Samsudin,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Muhammad Safiuddin Bin Ismail,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Muhammad Safiuddin Bin Ismail,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Muhammad Safiuddin Bin Ismail,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Muhammad Safwan Bin Mustafa,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Muhammad Safwan Bin Mustafa,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Shafie Bin Md Shahar,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Shafie Bin Md Shahar,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Shafie Bin Md Shahar,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Muhammad Shafie Bin Md Shahar,Active,DevOps Foundation,0,1,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Muhammad Shafiq Bin Abd Rahman,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Muhammad Shafiq Bin Abd Rahman,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Muhammad Shafiq Bin Abd Rahman,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Shahmil Bin Shahidan,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Shahmil Bin Shahidan,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Muhammad Shahmil Bin Shahidan,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Muhammad Shaumil Bin Jamil,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Muhammad Shaumil Bin Jamil,Active,Applied Artificial Intelligence (AIP-210),1,1,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Sobri Bin Muhammad Bajuri,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Sobri Bin Muhammad Bajuri,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Sobri Bin Muhammad Bajuri,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Muhammad Syafiq Bin Ahmad Nizam,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Muhammad Syafiq Bin Ahmad Nizam,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Muhammad Syafiq Bin Razak,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Muhammad Syafiq Bin Razak,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Muhammad Syafiq Bin Razak,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Muhammad Syafiq Bin Roslan,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Muhammad Syafiq Bin Roslan,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCCP,C1,2024,Muhammad Syafiq Ilyas Bin Mohd Ghazali,Terminate,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C1,2024,Muhammad Syafiq Ilyas Bin Mohd Ghazali,Terminate,CISCO SCOR,0,0,0,NULL,NULL,NULL
+GCCP,C1,2024,Muhammad Syafiq Ilyas Bin Mohd Ghazali,Terminate,CISCO SWSA,0,0,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Muhammad Syahmi Bin Amran,Active,Applied Data Science (CDSP-210),0,0,0,1,NULL,NULL
+GAIP,C4,2024,Muhammad Syahmi Bin Amran,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Syamil Bin Aziz,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Muhammad Syamil Bin Aziz,Active,CISCO SCOR,0,0,0,1,NULL,NULL
+GCCP,C4,2024,Muhammad Syamil Bin Aziz,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Muhammad Syamsul Mirza Bin Ismail,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Muhammad Syamsul Mirza Bin Ismail,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Muhammad Syamsul Mirza Bin Ismail,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhammad Syazani Bin Mohd Faudzi,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhammad Syazani Bin Mohd Faudzi,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhammad Syazani Bin Mohd Faudzi,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Muhammad Syazani Bin Mohd Faudzi,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Syazwan Bin Rosman,Active,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C7,2024,Muhammad Syazwan Bin Rosman,Active,CISCO SCOR,0,0,0,1,NULL,NULL
+GCCP,C7,2024,Muhammad Syazwan Bin Rosman,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Muhammad Syazwan Bin Samar,Active,Applied Data Science (CDSP-210),0,0,0,0,1,NULL
+GAIP,C2,2024,Muhammad Syazwan Bin Samar,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Muhammad Umar Bin Shahbuddin,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Muhammad Umar Bin Shahbuddin,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Muhammad Zahid Bin Azahar,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Muhammad Zahid Bin Azahar,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Muhammad Zahid Bin Azahar,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhammad Zaid Bin Mohd Salleh,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhammad Zaid Bin Mohd Salleh,Terminate,CISCO SCOR,0,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhammad Zaid Bin Mohd Salleh,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Muhammad Zikril Azim Bin Abdul Manan,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C4,2024,Muhammad Zikril Azim Bin Abdul Manan,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Muhammad Zulfadhli Fazoli Bin Zakaria,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Muhammad Zulfadhli Fazoli Bin Zakaria,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhammad Zulhakimi Bin Mohd Nadzari,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhammad Zulhakimi Bin Mohd Nadzari,Terminate,CISCO SCOR,0,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Muhammad Zulhakimi Bin Mohd Nadzari,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Muhammad Zulhilmi Bin Mod Rokbi,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Muhammad Zulhilmi Bin Mod Rokbi,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Muhd Asyraf Bin Razlan,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Muhd Asyraf Bin Razlan,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Muhd Asyraf Bin Razlan,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Muhd Sham Ashraff Bin Maskan,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Muhd Sham Ashraff Bin Maskan,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Muhd Zahiruddin Bin Zainal Abidin,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Muhd Zahiruddin Bin Zainal Abidin,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Muhd Zahiruddin Bin Zainal Abidin,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2024,Munif Bin Faiz Bafana,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C1,2024,Munif Bin Faiz Bafana,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C1,2024,Munif Bin Faiz Bafana,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GACP,C2,2024,Mustaqim Bin Musthafa,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Mustaqim Bin Musthafa,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Mustaqim Bin Musthafa,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Mustaqim Bin Musthafa,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Nabihah Binti Nordin,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Nabihah Binti Nordin,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Nabihah Binti Nordin,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Nafiz 'Irfan Shuhaimi,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Nafiz 'Irfan Shuhaimi,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Nafiz 'Irfan Shuhaimi,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Nashrah Ayna Binti Shah Fiesal,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Nashrah Ayna Binti Shah Fiesal,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Nasrollah Bin Abdul Khair,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Nasrollah Bin Abdul Khair,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Nasrollah Bin Abdul Khair,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Nasru Nazhif Nasarudin,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Nasru Nazhif Nasarudin,Active,CISCO SCOR,0,0,0,1,NULL,NULL
+GCCP,C4,2024,Nasru Nazhif Nasarudin,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Nazim Bin Zulkifle,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Nazim Bin Zulkifle,Active,CompTIA Penetration Testing,0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Nazim Bin Zulkifle,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Nazrin Bin Zainudin,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Nazrin Bin Zainudin,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Nazrin Bin Zainudin,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Noor Aisyah Binti Zakaria,Active,Applied Data Science (CDSP-210),0,0,0,0,1,NULL
+GAIP,C4,2024,Noor Aisyah Binti Zakaria,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Noor Shazea Binti Ahmad Nordin,Active,Applied Data Science (CDSP-210),0,0,0,0,0,1
+GAIP,C2,2024,Noor Shazea Binti Ahmad Nordin,Active,Applied Artificial Intelligence (AIP-210),1,0,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Noor Suhaila Binti Khamis,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Noor Suhaila Binti Khamis,Active,AWS Cloud Practitioner (CLF-C02),0,0,1,NULL,NULL,NULL
+GACP,C5,2024,Noor Syafikah Binti Abdul Rahim,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Noor Syafikah Binti Abdul Rahim,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Noor Syafikah Binti Abdul Rahim,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Noor Syafikah Binti Abdul Rahim,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Noor Syafiq Bin Ismail,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Noor Syafiq Bin Ismail,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Noor Syafiq Bin Ismail,Active,Developer in Blockchain (EC-Council),0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Nor Ain Madiha Binti Anuar,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Nor Ain Madiha Binti Anuar,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Nor Ain Madiha Binti Anuar,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Nor Azmi Bin Abd Rahman,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Nor Azmi Bin Abd Rahman,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Nor Azmi Bin Abd Rahman,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Nor Faiz Bin Hawari,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Nor Faiz Bin Hawari,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Nor Faiz Bin Hawari,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Nor Izzati Binti Abd Malek,Active,AWS Solution Architect (SAA-C03),0,0,1,NULL,NULL,NULL
+GSAP,C3,2024,Nor Izzati Binti Abd Malek,Active,Foundation in Blockchain (EC-Council),0,1,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Nor Izzati Binti Abd Malek,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Nor Murtazah Jaafar,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Nor Murtazah Jaafar,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Nor Murtazah Jaafar,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GCSP,C3,2024,Nora Azlina Binti Abdul Aziz,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Nora Azlina Binti Abdul Aziz,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Nora Azlina Binti Abdul Aziz,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Norhamizah Binti Mohd Roslan,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Norhamizah Binti Mohd Roslan,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Norhamizah Binti Mohd Roslan,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Norliyana Binti Nor Hisham Shah,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Norliyana Binti Nor Hisham Shah,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Nur Afiqah Binti Roslan,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Nur Afiqah Binti Roslan,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Nur Afiqah Binti Roslan,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Nur Ain Nadia Binti Mohamad Hanapi,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Nur Ain Nadia Binti Mohamad Hanapi,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Nur Ain Nadia Binti Mohamad Hanapi,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Nur Ain Nadia Binti Mohamad Hanapi,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Nur Aliani Binti Abdullah,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Nur Aliani Binti Abdullah,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Nur Aliani Binti Abdullah,Active,CompTIA Security X,0,1,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Nur Amalina Binti Md Ali,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Nur Amalina Binti Md Ali,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C3,2024,Nur Amalina Binti Md Ali,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Nur Amira Binti Mohamad Nazir Ruddin,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Nur Amira Binti Mohamad Nazir Ruddin,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Nur Amira Binti Mohd Zin,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Nur Amira Binti Mohd Zin,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Nur Amirah Abdullah Halim,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Nur Amirah Abdullah Halim,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Nur Amirah Abdullah Halim,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Nur Aqilah Binti Kamarull Zaman,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Nur Aqilah Binti Kamarull Zaman,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Nur Aqilah Binti Kamarull Zaman,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2024,Nur Aqilah Binti Kamarull Zaman,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Nur Aqilah Binti Mohd Ariff,Active,Applied Data Science (CDSP-210),0,0,0,0,1,NULL
+GAIP,C2,2024,Nur Aqilah Binti Mohd Ariff,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Nur Azuren Binti Othman,Active,CompTIA Cybersecurity Analyst,0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Nur Azuren Binti Othman,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Nur Azuren Binti Othman,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Nur Diyanah Binti Dzainuddin,Active,Applied Data Science (CDSP-210),0,0,0,1,NULL,NULL
+GAIP,C4,2024,Nur Diyanah Binti Dzainuddin,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Nur Eleina Binti Sufian,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Nur Eleina Binti Sufian,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Nur Elvina Binti Ya'Akub,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Nur Elvina Binti Ya'Akub,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Nur Elvina Binti Ya'Akub,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Nur Fadzlina Binti Abu Bakar,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Nur Fadzlina Binti Abu Bakar,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Nur Farhana Muhamad Jasmin,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Nur Farhana Muhamad Jasmin,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Nur Farhana Muhamad Jasmin,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Nur Farhana Muhamad Jasmin,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Nur Farhanah Binti Hider,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C4,2024,Nur Farhanah Binti Hider,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2023,Nur Fekah Binti Odnan,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2023,Nur Fekah Binti Odnan,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2023,Nur Fekah Binti Odnan,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C1,2023,Nur Fekah Binti Odnan,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Nur Hanis Hazwanie Binti Abdolah,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Nur Hanis Hazwanie Binti Abdolah,Active,Applied Artificial Intelligence (AIP-210),1,1,NULL,NULL,NULL,NULL
+GACP,C2,2024,Nur Hasbi Binti Hassan,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Nur Hasbi Binti Hassan,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Nur Hasbi Binti Hassan,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C2,2024,Nur Hasbi Binti Hassan,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Nur Hasyimah Binti Rasip,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Nur Hasyimah Binti Rasip,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Nur Hasyimah Binti Rasip,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Nur Izzati Binti Ab Rahman,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C4,2024,Nur Izzati Binti Ab Rahman,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Nur Lailatul Badriah Binti Kae Ahmad Dahniar,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Nur Lailatul Badriah Binti Kae Ahmad Dahniar,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Nur Lina Binti Abdul Aziz,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Nur Lina Binti Abdul Aziz,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Nur Lina Binti Abdul Aziz,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Nur Liyana Binti Mohd Sanif,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Nur Liyana Binti Mohd Sanif,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Nur Najihah Abdul Aziz,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Nur Najihah Abdul Aziz,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C9,2024,Nur Najihah Abdul Aziz,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Nur Najihah Binti Abdul Manap,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Nur Najihah Binti Abdul Manap,Active,CompTIA Penetration Testing,0,1,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Nur Najihah Binti Abdul Manap,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Nur Nazira Binti Mustakeng,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Nur Nazira Binti Mustakeng,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Nur Sahirah Binti Mohd Saffee,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Nur Sahirah Binti Mohd Saffee,Active,AWS Cloud Practitioner (CLF-C02),0,0,0,1,NULL,NULL
+GSAP,C2,2024,Nur Sakinah Binti Nor Kamal,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Nur Sakinah Binti Nor Kamal,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Nur Sakinah Binti Nor Kamal,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Nur Sharidah Michelle Binti Avelino,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Nur Sharidah Michelle Binti Avelino,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Nur Sharidah Michelle Binti Avelino,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Nur Syafinaz Abdullahtip,Terminate,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Nur Syafinaz Abdullahtip,Terminate,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C8,2024,Nur Syafinaz Abdullahtip,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Nur Syafiqa Binti Yusri,Active,AWS Solution Architect (SAA-C03),0,0,1,NULL,NULL,NULL
+GSAP,C3,2024,Nur Syafiqa Binti Yusri,Active,Foundation in Blockchain (EC-Council),0,1,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Nur Syafiqa Binti Yusri,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Nur Syafiqah Binti Safiee,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Nur Syafiqah Binti Safiee,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Nur Syafiqah Binti Safiee,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Nur Syahira Nabila Binti Rozaini,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Nur Syahira Nabila Binti Rozaini,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Nur Syahira Nabila Binti Rozaini,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Nur Syahira Nabila Binti Rozaini,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Nur Syaza Sahira Binti Rusli,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Nur Syaza Sahira Binti Rusli,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Nur Syaza Sahira Binti Rusli,Active,CompTIA Security X,0,1,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Nur Syazana Binti Jalaludin,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Nur Syazana Binti Jalaludin,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Nur Syazana Binti Jalaludin,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Nur Syazarina Binti Badrul Hishamuddin,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Nur Syazarina Binti Badrul Hishamuddin,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Nur Syazarina Binti Badrul Hishamuddin,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Nur Zulaikha Binti Mohd Afandi,Active,Applied Data Science (CDSP-210),0,0,0,0,1,NULL
+GAIP,C4,2024,Nur Zulaikha Binti Mohd Afandi,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Nuraini Liyana Binti Mohd Shafri,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Nuraini Liyana Binti Mohd Shafri,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Nuramalina Binti Azizi,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Nuramalina Binti Azizi,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Nuramalina Binti Azizi,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Nuramalina Binti Azizi,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Nurashikin Binti Yusni,Active,Applied Data Science (CDSP-210),0,0,0,1,NULL,NULL
+GAIP,C4,2024,Nurashikin Binti Yusni,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Nureen Izzati Binti Khairulfitri@Khaironi,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Nureen Izzati Binti Khairulfitri@Khaironi,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Nureen Izzati Binti Khairulfitri@Khaironi,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Nureen Izzati Binti Khairulfitri@Khaironi,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Nurfatin Nabilah Binti Osman,Active,Applied Data Science (CDSP-210),0,0,0,1,NULL,NULL
+GAIP,C4,2024,Nurfatin Nabilah Binti Osman,Active,Applied Artificial Intelligence (AIP-210),0,0,1,NULL,NULL,NULL
+GCTP,C3,2024,Nurhazwani Binti Isnazli,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Nurhazwani Binti Isnazli,Active,AWS Cloud Practitioner (CLF-C02),0,1,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Nurhazwani Hikmah Binti Harme,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Nurhazwani Hikmah Binti Harme,Active,AWS Cloud Practitioner (CLF-C02),0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Nuriylia Binti Nordin,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C2,2024,Nuriylia Binti Nordin,Active,Applied Artificial Intelligence (AIP-210),0,1,1,NULL,NULL,NULL
+GCCP,C7,2024,Nurkhairiena Binti Mohd Khuzaimie,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Nurkhairiena Binti Mohd Khuzaimie,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C7,2024,Nurkhairiena Binti Mohd Khuzaimie,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Nurliyana Farhana Binti Suleiman,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Nurliyana Farhana Binti Suleiman,Active,AWS Cloud Practitioner (CLF-C02),0,1,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Nurmunirah Binti Mohd Hanafi,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Nurmunirah Binti Mohd Hanafi,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Nurmunirah Binti Mohd Hanafi,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Nurul Ashikin Binti Othman,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Nurul Ashikin Binti Othman,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Nurul Ashikin Binti Othman,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C3,2024,Nurul Asma Ismail,Terminate,CISCO CCNA,0,0,1,NULL,NULL,NULL
+GCCP,C3,2024,Nurul Asma Ismail,Terminate,CISCO SCOR,0,0,0,NULL,NULL,NULL
+GCCP,C3,2024,Nurul Asma Ismail,Terminate,CISCO SWSA,0,0,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Nurul Assikin Binti Zamzuri,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Nurul Assikin Binti Zamzuri,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Nurul Assikin Binti Zamzuri,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Nurul Atiqah Binti Asram,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Nurul Atiqah Binti Asram,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Nurul Farah Syuhada Binti Nuradzian,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Nurul Farah Syuhada Binti Nuradzian,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Nurul Farah Syuhada Binti Nuradzian,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Nurul Farhana Yanti Binti A.Ghani,Active,Applied Data Science (CDSP-210),0,0,0,1,NULL,NULL
+GAIP,C4,2024,Nurul Farhana Yanti Binti A.Ghani,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Nurul Fatiha Binti Tajul Idris,Terminate,AWS Solution Architect (SAA-C03),0,0,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Nurul Fatiha Binti Tajul Idris,Terminate,Foundation in Blockchain (EC-Council),0,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Nurul Fatiha Binti Tajul Idris,Terminate,Developer in Blockchain (EC-Council),NULL,NULL,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Nurul Izzaty Binti Mahmood,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Nurul Izzaty Binti Mahmood,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Nurul Nazihah Binti Ahamad,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Nurul Nazihah Binti Ahamad,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Nurul Nazihah Binti Ahamad,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Nurul Syahira Binti Jamalludin,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Nurul Syahira Binti Jamalludin,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Nurul Syahira Binti Jamalludin,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Nurulfarrah Mardiana Binti Radi,Active,Certified Ethical Hacker,0,1,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Nurulfarrah Mardiana Binti Radi,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Omar Hafidz Bin Mohd Puad,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Omar Hafidz Bin Mohd Puad,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Ozzal Ndy Dominic,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Ozzal Ndy Dominic,Active,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Ozzal Ndy Dominic,Active,CISCO SWSA,0,0,1,NULL,NULL,NULL
+GSAP,C3,2024,Pasridi Bin Ghazali,Active,AWS Solution Architect (SAA-C03),0,0,1,NULL,NULL,NULL
+GSAP,C3,2024,Pasridi Bin Ghazali,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Pasridi Bin Ghazali,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Puteri Faiqah Binti Mustafa,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Puteri Faiqah Binti Mustafa,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C7,2024,Puteri Faiqah Binti Mustafa,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Puteri Nur Jashena Binti Jefry,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Puteri Nur Jashena Binti Jefry,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2024,Qistina Najwa Binti Mohamad Farid,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C1,2024,Qistina Najwa Binti Mohamad Farid,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2024,Qistina Najwa Binti Mohamad Farid,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Rabiatul Arbaiyah Binti Ruslan,Active,AWS Solution Architect (SAA-C03),0,0,1,NULL,NULL,NULL
+GSAP,C3,2024,Rabiatul Arbaiyah Binti Ruslan,Active,Foundation in Blockchain (EC-Council),0,1,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Rabiatul Arbaiyah Binti Ruslan,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,"Rabi'Atul-Adawiyyah Binti Hasubullah, Rabi'Atul-Adawiyyah",Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,"Rabi'Atul-Adawiyyah Binti Hasubullah, Rabi'Atul-Adawiyyah",Active,AWS Cloud Practitioner (CLF-C02),0,1,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Radi Bin Ishak,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Radi Bin Ishak,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Raja Mohamad Amin Hidayat Bin Raja Mudzafar Shah,Active,AWS Solution Architect (SAA-C03),0,0,0,1,NULL,NULL
+GSAP,C1,2024,Raja Mohamad Amin Hidayat Bin Raja Mudzafar Shah,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Raja Mohamad Amin Hidayat Bin Raja Mudzafar Shah,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Rasdan Bin Jama'in,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Rasdan Bin Jama'in,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Razni Anuar Bin Mohamad Razali,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Razni Anuar Bin Mohamad Razali,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Razni Anuar Bin Mohamad Razali,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Ridhwan Amin Azhari Bin Zabidi,Terminate,CISCO CCNA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Ridhwan Amin Azhari Bin Zabidi,Terminate,CISCO SCOR,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C4,2024,Ridhwan Amin Azhari Bin Zabidi,Terminate,CISCO SWSA,NULL,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Ridzuan Bin Roslan,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Ridzuan Bin Roslan,Active,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2023,Ridzuan Bin Roslan,Active,CISCO SWSA,0,0,0,1,NULL,NULL
+GCTP,C2,2024,Rosmaniza Binti Rosli,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Rosmaniza Binti Rosli,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Ruzaini Bin Ramdzan,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Ruzaini Bin Ramdzan,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Saddam Hussein Bin Abdul Kadir,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Saddam Hussein Bin Abdul Kadir,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Sadiy Bin Shamsol Azizy,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Sadiy Bin Shamsol Azizy,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Sahyro Safuan Izzal Bin Sahak,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Sahyro Safuan Izzal Bin Sahak,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Sahyro Safuan Izzal Bin Sahak,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C3,2024,Sahyro Safuan Izzal Bin Sahak,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Saidatul Syafiqah Binti Abdul Rashid,Active,Applied Data Science (CDSP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Saidatul Syafiqah Binti Abdul Rashid,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Sh Shazmeer Bin Sharif Bungsu,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Sh Shazmeer Bin Sharif Bungsu,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Sh Shazmeer Bin Sharif Bungsu,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Shadiah Husna Binti Mohd Nor,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Shadiah Husna Binti Mohd Nor,Active,Applied Artificial Intelligence (AIP-210),0,1,NULL,NULL,NULL,NULL
+GCCP,C1,2024,Shah Khairul Hakem Dziaudin,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2024,Shah Khairul Hakem Dziaudin,Active,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C1,2024,Shah Khairul Hakem Dziaudin,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Shahrul Izwan Bin Suhaimi,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C1,2024,Shahrul Izwan Bin Suhaimi,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Sharifah Absarina Binti Syed Abdul Rahman,Active,CISCO CCNA,0,0,0,1,NULL,NULL
+GCCP,C5,2024,Sharifah Absarina Binti Syed Abdul Rahman,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C5,2024,Sharifah Absarina Binti Syed Abdul Rahman,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Sharifah Emahumairah Binti Syed Yasin,Active,AWS Solution Architect (SAA-C03),0,0,0,1,NULL,NULL
+GSAP,C1,2024,Sharifah Emahumairah Binti Syed Yasin,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Sharifah Emahumairah Binti Syed Yasin,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Shazniza Binti Mohammed Affandi,Active,Certified Ethical Hacker,0,1,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Shazniza Binti Mohammed Affandi,Active,AWS Cloud Practitioner (CLF-C02),0,0,0,0,1,NULL
+GAIP,C4,2024,Siti Farahiyah Binti Ismail,Active,Applied Data Science (CDSP-210),0,0,0,1,NULL,NULL
+GAIP,C4,2024,Siti Farahiyah Binti Ismail,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Siti Maisarah Binti Azlizam,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Siti Maisarah Binti Azlizam,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Siti Maisarah Binti Azlizam,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Siti Maisarah Binti Azlizam,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Siti Maryam Binti Nidzamud-Din,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Siti Maryam Binti Nidzamud-Din,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C7,2024,Siti Maryam Binti Nidzamud-Din,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Siti Noor Nadiah Binti Mohd Rafidi,Active,Applied Data Science (CDSP-210),0,0,0,0,1,NULL
+GAIP,C4,2024,Siti Noor Nadiah Binti Mohd Rafidi,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Siti Nur Khadijah Md Yusoff,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Siti Nur Khadijah Md Yusoff,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Siti Nur Khadijah Md Yusoff,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Siti Nur Sufia Binti Yusob,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Siti Nur Sufia Binti Yusob,Active,CISCO SCOR,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Siti Nur Sufia Binti Yusob,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Siti Nuratiqah Binti Ibrahim,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Siti Nuratiqah Binti Ibrahim,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Siti Nuratiqah Binti Ibrahim,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Siti Nurdiana Binti A Sahil,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Siti Nurdiana Binti A Sahil,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Siti Nurdiana Binti A Sahil,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Siti Nurshaline Binti Mohd Saadon,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Siti Nurshaline Binti Mohd Saadon,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C7,2024,Siti Nurshaline Binti Mohd Saadon,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Siti Nursyuhaidah Binti Yusof,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C4,2024,Siti Nursyuhaidah Binti Yusof,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Siti Nurul 'Abidah Binti Mazlan,Active,Applied Data Science (CDSP-210),0,0,0,0,1,NULL
+GAIP,C2,2024,Siti Nurul 'Abidah Binti Mazlan,Active,Applied Artificial Intelligence (AIP-210),1,0,0,NULL,NULL,NULL
+GCTP,C1,2024,Siti Sarah Binti Ishak,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Siti Sarah Binti Ishak,Active,AWS Cloud Practitioner (CLF-C02),0,0,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Sufrizan Bin Dawing,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Sufrizan Bin Dawing,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Sufrizan Bin Dawing,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Suhana Binti Nasir,Active,AWS Solution Architect (SAA-C03),0,1,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Suhana Binti Nasir,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C3,2024,Suhana Binti Nasir,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Suhazri Amrin Bin Rahmad,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Suhazri Amrin Bin Rahmad,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Suhazri Amrin Bin Rahmad,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C4,2024,Suhazri Amrin Bin Rahmad,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Syaedi Zaqquan Bin Zamri,Active,Android Certified Application Development,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Syaedi Zaqquan Bin Zamri,Active,Android Security Essential,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Syaedi Zaqquan Bin Zamri,Active,Android UIUX Design,1,NULL,NULL,NULL,NULL,NULL
+GACP,C5,2024,Syaedi Zaqquan Bin Zamri,Active,DevOps Foundation,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Syahiran Bin Shaharun,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Syahiran Bin Shaharun,Active,CompTIA Penetration Testing,0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Syahiran Bin Shaharun,Active,CompTIA Security X,0,1,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Syaza Wadhihah Binti Muhammad Yazid,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Syaza Wadhihah Binti Muhammad Yazid,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C3,2024,Syaza Wadhihah Binti Muhammad Yazid,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Syed Abdul 'Azim Bin Syed Rosli,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Syed Abdul 'Azim Bin Syed Rosli,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C4,2024,Syed Abdul 'Azim Bin Syed Rosli,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Tajol Ariffin Bin Ab Rahman,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Tajol Ariffin Bin Ab Rahman,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Tajol Ariffin Bin Ab Rahman,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Taqiuddin Raimi Bin Nan Azazi,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Taqiuddin Raimi Bin Nan Azazi,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Tengku Ahmad Faizul Bin Tengku Ahmad Kamil,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Tengku Ahmad Faizul Bin Tengku Ahmad Kamil,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Tengku Ahmad Faizul Bin Tengku Ahmad Kamil,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Tengku Muhammad Haikal Hakimi Bin Tengku Harun,Terminate,CISCO CCNA,0,0,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Tengku Muhammad Haikal Hakimi Bin Tengku Harun,Terminate,CISCO SCOR,0,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Tengku Muhammad Haikal Hakimi Bin Tengku Harun,Terminate,CISCO SWSA,0,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Tengku Nur Suhailah Husna Binti Tengku Abdul Azis,Terminate,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Tengku Nur Suhailah Husna Binti Tengku Abdul Azis,Terminate,CompTIA Penetration Testing,0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Tengku Nur Suhailah Husna Binti Tengku Abdul Azis,Terminate,CompTIA Security X,0,0,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Thariq Assef Bin Jaafar,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Thariq Assef Bin Jaafar,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Thariq Assef Bin Jaafar,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Wan Ahmad Arif Bin Wan Ahmad Ifafudin,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Wan Ahmad Arif Bin Wan Ahmad Ifafudin,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C1,2024,Wan Ahmad Arif Bin Wan Ahmad Ifafudin,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Wan Eric Al Fattah Bin Wan Hishamuddin,Active,AWS Solution Architect (SAA-C03),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Wan Eric Al Fattah Bin Wan Hishamuddin,Active,Foundation in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GSAP,C2,2024,Wan Eric Al Fattah Bin Wan Hishamuddin,Active,Developer in Blockchain (EC-Council),1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Wan Mohammad Faisal Bin Fahmi,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Wan Mohammad Faisal Bin Fahmi,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Wan Mohammad Faisal Bin Fahmi,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GAIP,C4,2024,Wan Mohd Fahmi Bin Wan Hassin,Active,Applied Data Science (CDSP-210),0,0,1,NULL,NULL,NULL
+GAIP,C4,2024,Wan Mohd Fahmi Bin Wan Hassin,Active,Applied Artificial Intelligence (AIP-210),1,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Wan Muhamad Arif Bin Wan Husain,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Wan Muhamad Arif Bin Wan Husain,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C7,2024,Wan Muhamad Arif Bin Wan Husain,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Wan Muhamad Syalihin Bin Wan Yusmei,Active,CISCO CCNA,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Wan Muhamad Syalihin Bin Wan Yusmei,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Wan Muhamad Syalihin Bin Wan Yusmei,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Wan Muhammad Hidayat Bin Wan Shukri,Active,Applied Data Science (CDSP-210),0,1,NULL,NULL,NULL,NULL
+GAIP,C2,2024,Wan Muhammad Hidayat Bin Wan Shukri,Active,Applied Artificial Intelligence (AIP-210),1,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Wan Nor Suhaili Binti Wan Zahari,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Wan Nor Suhaili Binti Wan Zahari,Active,CompTIA Penetration Testing,0,1,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Wan Nor Suhaili Binti Wan Zahari,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Wan Norhani Khairani Binti Wan Abdul Halim,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Wan Norhani Khairani Binti Wan Abdul Halim,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C2,2024,Wan Norhani Khairani Binti Wan Abdul Halim,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Wan Nurul Hidayu Binti Wan Nazlan,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C7,2024,Wan Nurul Hidayu Binti Wan Nazlan,Active,CISCO SCOR,0,0,1,NULL,NULL,NULL
+GCCP,C7,2024,Wan Nurul Hidayu Binti Wan Nazlan,Active,CISCO SWSA,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Wardina Saffiyah Binti Ahmad Kamal Bashah,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Wardina Saffiyah Binti Ahmad Kamal Bashah,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Wardina Saffiyah Binti Ahmad Kamal Bashah,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Zahari Bin Kamalul Annuar,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Zahari Bin Kamalul Annuar,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Zaidin Bin Zainuddin,Active,Certified Ethical Hacker,0,1,NULL,NULL,NULL,NULL
+GCTP,C2,2024,Zaidin Bin Zainuddin,Active,AWS Cloud Practitioner (CLF-C02),0,0,0,1,NULL,NULL
+GCTP,C1,2024,Zamzarith Binti Abdul Mutalib,Terminate,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Zamzarith Binti Abdul Mutalib,Terminate,AWS Cloud Practitioner (CLF-C02),0,0,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Zawawi Bin Embong,Active,CompTIA Cybersecurity Analyst,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Zawawi Bin Embong,Active,CompTIA Penetration Testing,1,NULL,NULL,NULL,NULL,NULL
+GCSP,C1,2024,Zawawi Bin Embong,Active,CompTIA Security X,1,NULL,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Zikry Hakim Bin Zakaria,Active,CISCO CCNA,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Zikry Hakim Bin Zakaria,Active,CISCO SCOR,0,1,NULL,NULL,NULL,NULL
+GCCP,C9,2024,Zikry Hakim Bin Zakaria,Active,CISCO SWSA,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Zulfahmi Aidi Bin Othman,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Zulfahmi Aidi Bin Othman,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Zulhusni Bin Ismail,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C3,2024,Zulhusni Bin Ismail,Active,AWS Cloud Practitioner (CLF-C02),0,0,0,1,NULL,NULL
+GCTP,C1,2024,Zulkefli Bin Mohd Dahlan,Active,Certified Ethical Hacker,1,NULL,NULL,NULL,NULL,NULL
+GCTP,C1,2024,Zulkefli Bin Mohd Dahlan,Active,AWS Cloud Practitioner (CLF-C02),1,NULL,NULL,NULL,NULL,NULL
